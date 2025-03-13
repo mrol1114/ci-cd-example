@@ -9,7 +9,7 @@ draft: false
 ## Контактная информация
 - **Имя:** Олег
 - **Email:** beznosyukoleg007@gmail.com
-- **GitHub:** [github.com/mrol1114](https://github.com/ivanov)
+- **GitHub:** [github.com/mrol1114](https://github.com/mrol1114)
 
 ## Образование
 **Поволжский государственный технический университет**  
